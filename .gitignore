@@ -1,0 +1,84 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+.tox/
+.cache
+.mypy_cache/
+.ruff_cache/
+
+# Distribution / packaging
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# ============================================================
+# Windows
+# ============================================================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+ehthumbs_view.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================================
+# macOS / Linux
+# ============================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# ============================================================
+# IDEs and editors
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.iml
+
+# ============================================================
+# Logs and runtime
+# ============================================================
+*.log
+logs/
+
+# ============================================================
+# Project-specific
+# ============================================================
+# Examples folder: contains demo-plastic-defect specific scripts
+# kept on disk for reference but not part of the public skill
+examples/
